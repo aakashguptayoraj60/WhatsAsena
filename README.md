@@ -36,7 +36,7 @@
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
+[![Run on Repl.it](https://repl.it/badge/github/aakashguptayora/whatsasena)](https://repl.it/@aakashguptayora/whatsasena)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aakashguptayoraj60/WhatsAsena)
 
